@@ -1,4 +1,4 @@
-This project was developed by me and [Soham bit](https://github.com/bit-soham)
+This project was developed by me and [Soham T. Umbare](https://github.com/theSohamTUmbare)
 
 # Variational Autoencoder (VAE)
 
